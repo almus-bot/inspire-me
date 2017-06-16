@@ -1,5 +1,5 @@
 Un paquete para generar imágenes motivadoras: inspire-me
-==================================================
+========================================================
 
 Se desea desarrollar un paquete en Python que facilite la generación de
 imágenes motivadoras como las que encontramos con frecuencia en la redes
